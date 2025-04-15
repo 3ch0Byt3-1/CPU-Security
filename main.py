@@ -10,7 +10,7 @@ import os  # For secure token loading
 # ------------------
 # Configuration Settings
 # ------------------
-LOG_CHANNEL_ID = 1356571939170287697  # Update with your logging channel ID
+LOG_CHANNEL_ID = 1361538017793282216  # Update with your logging channel ID
 TOKEN = os.getenv("T")
 keep_alive()
 # Spam, link, and other timeouts
